@@ -1,1 +1,8 @@
-# CS-201-Mini-Project-1
+Mini Project 1 for CS 201 topic:C Program for large Fibonacci Number
+
+Submitted by:KUMAR HARSHIT SINGH
+SCHOLAR ID:2012013
+DEPT:CSE
+SEC:A
+COURSE CODE:CS 201
+NATIONAL INSTITUTE OF TECHNOLOGY, SILCHAR
